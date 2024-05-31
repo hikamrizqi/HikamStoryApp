@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="kuning">#FFAF45</color>
+    <color name="oren">#FB6D48</color>
+    <color name="ungu">#673F69</color>
+    <color name="pink">#D74B76</color>
+</resources>
